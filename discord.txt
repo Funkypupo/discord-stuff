@@ -1,5 +1,0 @@
-the stuff to make stuff red:
-
-```diff
--your text here
-```

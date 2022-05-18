@@ -2,3 +2,19 @@
 ```diff
 -your text here
 ```
+\\ORANGE
+```css
+[your text here]
+```
+\\YELLOW
+```fix
+ E
+```
+\\GREEN
+```bash
+“your text here”
+```
+\\LIGHT GREEN
+```json
+“text goes here!”
+```

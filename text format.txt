@@ -1,5 +1,5 @@
 **Bold**
 *Italic*
 __Underline__
---Strikethrough--
+~Strikethrough~
 ||Spoiler Text||
